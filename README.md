@@ -2,7 +2,6 @@
 🎓 I am currently enrolled in a Bachelor of Technology program at VIPS-TC, specializing in Artificial Intelligence and Machine Learning<br><br>🌱I am currently engaged in an immersive journey of learning and exploration, delving into the multifaceted world of Python to uncover its vast potential and myriad capabilities<br><br>📫How to reach me lakshay7004@gmail.com<br><br>⚡Fun fact I'm part muscle-pumping powerhouse and part two-wheeled adventurer, ready to conquer any fitness challenge that comes my way! 🚴💪
 
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_sharma_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-sharma-242907259) 
 
 # 💻 Tech Stack:
