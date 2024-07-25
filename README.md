@@ -4,7 +4,7 @@
 
 # Portfolio:
 
-https://lakshaysharma10.vercel.app/
+https://lakshaysharma-portfolio.vercel.app/
 
 # 💻 Tech Stack:
 
