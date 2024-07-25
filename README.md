@@ -39,10 +39,12 @@ https://lakshaysharma10.vercel.app/
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-Developer Tools
+Developer Tools<br/>
+
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-Area of Interest
+Area of Interest<br/>
+
 ![DSA](https://img.shields.io/badge/DSA-%23008080.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23800080.svg?style=for-the-badge&logo=object-group&logoColor=white)
 
