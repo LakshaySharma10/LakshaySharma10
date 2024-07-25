@@ -20,7 +20,7 @@ https://lakshaysharma10.vercel.app/
 
  Frontend Development Frameworks And Libraries<br/>
  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -39,6 +39,12 @@ https://lakshaysharma10.vercel.app/
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+Developer Tools
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+Area of Interest
+![DSA](https://img.shields.io/badge/DSA-%23008080.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23800080.svg?style=for-the-badge&logo=object-group&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LakshaySharma10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
