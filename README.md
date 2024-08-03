@@ -1,4 +1,4 @@
-# Hey 👋, I'm Lakshay 
+<b> Hey 👋, I'm Lakshay </b>
 
 A passionate **Fullstack Developer** and a **Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** from India.
 
