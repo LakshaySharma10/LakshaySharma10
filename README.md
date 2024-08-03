@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Lakshay Sharma!
+# Hey 👋, I'm Lakshay 
 
 A passionate **Fullstack Developer** and a **Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** from India.
 
