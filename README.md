@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Lakshay 
 
 A passionate **Fullstack Developer** and a **Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** from India.
-<img align="right" alt="GIF" src="https://github.com/LakshaySharma10/LakshaySharma10/blob/main/githubphoto.png" />
+<img align="right" alt="GIF" src="https://github.com/LakshaySharma10/LakshaySharma10/raw/main/githubphoto.png" />
+
 
 
 
