@@ -1,6 +1,21 @@
-# 💫 About Me:
-🎓 I am currently enrolled in a Bachelor of Technology program at VIPS-TC, specializing in Artificial Intelligence and Machine Learning<br><br>🌱I am currently engaged in an immersive journey of learning and exploration, delving into the multifaceted world of Python to uncover its vast potential and myriad capabilities<br><br>📫How to reach me lakshay7004@gmail.com<br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_sharma_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-sharma-242907259) 
+## 👋 Hey there, I'm Lakshay Sharma!
+
+A passionate **Fullstack Developer** and a **Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** from India.
+
+### 🚀 About Me:
+
+- 🌱 Currently on an epic journey into the depths of development, mastering **Data Structures and Algorithms**.
+- 🎓 Pursuing a Bachelor's degree in **Computer Science Engineering** with a focus on pushing the boundaries of AI and ML.
+- 💬 Have a burning question about tech? I'm your go-to person. I love helping out!
+- 📫 reach me out at **lakshay7004@gmail.com**
+
+### ⚡ My Adrenaline Boosters:
+
+1. **Coding**: The electrifying moment when code runs perfectly—nothing beats that high!
+2. **Gym**: The grind, the sweat, the triumph. Pushing my limits in the gym keeps me sharp and unstoppable.
+3. **Bikes**: The roar of the engine, the open road, and the sheer thrill of speed—riding bikes is my ultimate rush.
+
+
 
 # Portfolio:
 
