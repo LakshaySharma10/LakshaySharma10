@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Lakshay 
 
 A passionate **Fullstack Developer** and a **Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** from India.
+![githubphoto](https://github.com/user-attachments/assets/60183da5-356c-4e3b-8a41-6234de974d80)
 
 ### 🚀 About Me:
 
