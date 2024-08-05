@@ -10,7 +10,7 @@ A passionate **Fullstack Developer** and a **Computer Science Engineering** stud
 - 🌱 Currently on an epic journey into the depths of development, mastering **Data Structures and Algorithms**.
 - 🎓 Pursuing a Bachelor's degree in **Computer Science Engineering** with a focus on pushing the boundaries of AI and ML.
 - 💬 Have a burning question about tech? I'm your go-to person. I love helping out!
-- 📫 reach me out at **lakshay7004@gmail.com**
+- 📫 Reach out to me at **lakshay7004@gmail.com**
 
 ### ⚡ My Adrenaline Boosters:
 
