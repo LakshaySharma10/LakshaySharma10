@@ -22,7 +22,7 @@ A passionate **Fullstack Developer** and a **Computer Science Engineering** stud
 
 # Portfolio:
 
-https://lakshaysharma-portfolio.vercel.app/
+lakshaysharma.me
 
 # 💻 Tech Stack:
 
