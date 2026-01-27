@@ -53,9 +53,3 @@ I’m a Fullstack Developer and CSE student from India specializing in Artificia
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-%2300BFFF.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-
-# 📊 LeetCode Stats:
-![](https://leetcard.jacoblin.cool/Lakshay_Sharma7004?ext=heatmap)
----
-[![](https://visitcount.itsvg.in/api?id=LakshaySharma10&icon=0&color=0)](https://visitcount.itsvg.in)
-
