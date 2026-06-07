@@ -4,7 +4,7 @@ I’m a Fullstack Developer and CSE student from India specializing in Artificia
 
 # Portfolio:
 
-[lakshaysharma.me/](https://www.lakshaysharma.me/)
+[lakshaysharma.me/](https://lakshay-sharma-portfolio.vercel.app/)
 
 ## 🚀 Technical Skills
 
